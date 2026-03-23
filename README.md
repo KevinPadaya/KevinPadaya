@@ -1,7 +1,6 @@
  👋 Hi, I’m Kevin
  👀 I’m interested learn Kali linux
- 🌱 I’m currently learning wordpress
- 📫 How to reach me. I am end of the wordpress
+ 🌱 I’m currently learning python
  😄 Pronouns: Bad Boy
  ⚡ Fun fact: All way's Happy
 
